@@ -14,6 +14,7 @@ scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
 wordcloud = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.6"
