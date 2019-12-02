@@ -7,6 +7,13 @@ verify_ssl = true
 
 [packages]
 analytics-zoo = "*"
+numpy = "*"
+scipy = "*"
+pandas = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.6"
